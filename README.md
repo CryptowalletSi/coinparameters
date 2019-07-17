@@ -1,6 +1,6 @@
 ## NEVACOIN
 
-addressHeader = 53;
+* addressHeader = 53;
 p2shHeader = 5;
 acceptableAddressCodes = new int[] { addressHeader, p2shHeader };
 spendableCoinbaseDepth = 25;
