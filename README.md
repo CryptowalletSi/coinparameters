@@ -1,4 +1,4 @@
-# NEVACOIN
+## NEVACOIN
 
 addressHeader = 53;
 p2shHeader = 5;
@@ -16,7 +16,7 @@ softDustLimit = value(1000000); // 0.01 NEVA
 softDustPolicy = SoftDustPolicy.AT_LEAST_BASE_FEE_IF_SOFT_DUST_TXO_PRESENT;
 
 
-# AQUARIUSCOIN
+## AQUARIUSCOIN
 
 addressHeader = 23;
 p2shHeader = 5;
@@ -34,7 +34,7 @@ softDustLimit = value(1000000); // 0.01 ARCO
 softDustPolicy = SoftDustPolicy.AT_LEAST_BASE_FEE_IF_SOFT_DUST_TXO_PRESENT;
 
 
-# LANACOIN
+## LANACOIN
 
 addressHeader = 48;
 p2shHeader = 5;
@@ -52,7 +52,7 @@ softDustLimit = value(1000000); // 0.01 LANA
 softDustPolicy = SoftDustPolicy.AT_LEAST_BASE_FEE_IF_SOFT_DUST_TXO_PRESENT;
 
 
-# TAJCOIN
+## TAJCOIN
 
 addressHeader = 65;
 p2shHeader = 5;
