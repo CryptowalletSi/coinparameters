@@ -1,4 +1,4 @@
-## NEVACOIN
+##3 NEVACOIN
 
 * addressHeader = 53
 * p2shHeader = 5
@@ -22,7 +22,7 @@
 * wif: 0xb1
 
 
-## AQUARIUSCOIN
+### AQUARIUSCOIN
 
 * addressHeader = 23
 * p2shHeader = 5
@@ -46,7 +46,7 @@
 * wif: 0x97
 
 
-## LANACOIN
+### LANACOIN
 
 * addressHeader = 48
 * p2shHeader = 5
@@ -70,7 +70,7 @@
 * wif: 0xb0
 
 
-## TAJCOIN
+### TAJCOIN
 
 * addressHeader = 65
 * p2shHeader = 5
