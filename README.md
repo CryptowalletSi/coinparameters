@@ -1,4 +1,4 @@
-##3 NEVACOIN
+### NEVACOIN
 
 * addressHeader = 53
 * p2shHeader = 5
