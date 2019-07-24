@@ -14,7 +14,6 @@
 * minNonDust = value(1)
 * softDustLimit = value(1000000); // 0.01 NEVA
 * softDustPolicy = SoftDustPolicy.AT_LEAST_BASE_FEE_IF_SOFT_DUST_TXO_PRESENT
-# bip32
 * public: 0x0488B21E
 * private: 0x0488ADE4
 * pubKeyHash: 0x35
@@ -44,7 +43,6 @@
 * minNonDust = value(1)
 * softDustLimit = value(1000000); // 0.01 ARCO
 * softDustPolicy = SoftDustPolicy.AT_LEAST_BASE_FEE_IF_SOFT_DUST_TXO_PRESENT
-# bip32
 * public: 0x0488B21E
 * private: 0x0488ADE4
 * pubKeyHash: 0x17
@@ -74,7 +72,6 @@
 * minNonDust = value(1)
 * softDustLimit = value(1000000); // 0.01 LANA
 * softDustPolicy = SoftDustPolicy.AT_LEAST_BASE_FEE_IF_SOFT_DUST_TXO_PRESENT
-# bip32
 * public: 0x0488B21E
 * private: 0x0488ADE4
 * pubKeyHash: 0x30
@@ -103,7 +100,6 @@
 * minNonDust = value(1)
 * softDustLimit = value(1000000); // 0.01 TAJ
 * softDustPolicy = SoftDustPolicy.AT_LEAST_BASE_FEE_IF_SOFT_DUST_TXO_PRESENT
-#bip32
 * public: 0x0488B21E
 * private: 0x0488ADE4
 * pubKeyHash: 0x41
