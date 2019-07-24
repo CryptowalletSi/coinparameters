@@ -20,6 +20,12 @@
 * pubKeyHash: 0x35
 * scriptHash: 0x05
 * wif: 0xb1
+* P2P port: 7391
+* RPC port: 3791
+* Testnet P2P port: 17391
+* Testnnet RPC port: 13791
+* Mainnet DNS seeds: n1.nevacoin.net, n2.nevacoin.net, n3.nevacoin.net, n4.nevacoin.net
+* Testnet DNS seeds: test1.nevacoin.net, test2.nevacoin.net
 
 
 ### AQUARIUSCOIN
@@ -44,6 +50,12 @@
 * pubKeyHash: 0x17
 * scriptHash: 0x05
 * wif: 0x97
+* P2P port: 6205
+* RPC port: 6206
+* Testnet P2P port:
+* Testnnet RPC port: 
+* Mainnet DNS seeds: node1.aquariuscoin.com, node2.aquariuscoin.com, node3.aquariuscoin.com, node4.aquariuscoin.com, node5.aquariuscoin.com, node6.aquariuscoin.com, node7.aquariuscoin.com, node8.aquariuscoin.com, node9.aquariuscoin.com 
+* Testnet DNS seeds:
 
 
 ### LANACOIN
@@ -68,7 +80,12 @@
 * pubKeyHash: 0x30
 * scriptHash: 0x05
 * wif: 0xb0
-
+* P2P port: 7506
+* RPC port: 5706 
+* Testnet P2P port: 17506
+* Testnnet RPC port: 15706
+* Mainnet DNS seeds: seed1.lanacoin.com, seed2.lanacoin.com, seed3.lanacoin.com, seed4.lanacoin.com, seed5.lanacoin.com, seed6.lanacoin.com, seed7.lanacoin.com, seed8.lanacoin.com, seed9.lanacoin.com
+* Testnet DNS seeds: test1.lanacoin.com, test2.lanacoin.com
 
 ### TAJCOIN
 
@@ -92,6 +109,12 @@
 * pubKeyHash: 0x41
 * scriptHash: 0x05
 * wif: 0x6f
+* P2P port: 10712
+* RPC port: 12107
+* Testnet P2P port:
+* Testnnet RPC port: 
+* Mainnet DNS seeds: node1.tajcoin.tech, node2.tajcoin.tech, node3.tajcoin.tech, node4.tajcoin.tech, node5.tajcoin.tech, node6.tajcoin.tech, node7.tajcoin.tech, node8.tajcoin.tech, node9.tajcoin.tech
+* Testnet DNS seeds:
 
 
 
