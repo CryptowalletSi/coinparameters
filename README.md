@@ -112,6 +112,34 @@
 * Mainnet DNS seeds: node1.tajcoin.tech, node2.tajcoin.tech, node3.tajcoin.tech, node4.tajcoin.tech, node5.tajcoin.tech, node6.tajcoin.tech, node7.tajcoin.tech, node8.tajcoin.tech, node9.tajcoin.tech
 * Testnet DNS seeds:
 
+### NETKO
+
+* addressHeader = 
+* p2shHeader =
+* acceptableAddressCodes = new int[] { addressHeader, p2shHeader }
+* spendableCoinbaseDepth = 
+* dumpedPrivateKeyHeader = 
+* name = "Netko"
+* symbol = "NETKO"
+* uriScheme = "netko"
+* bip44Index = 
+* unitExponent =
+* feeValue = value(100); // 0.000001 NETKO
+* minNonDust = value(1)
+* softDustLimit = value(1000000); // 0.01 NETKO
+* softDustPolicy = SoftDustPolicy.AT_LEAST_BASE_FEE_IF_SOFT_DUST_TXO_PRESENT
+* public: 
+* private: 
+* pubKeyHash: 
+* scriptHash: 
+* wif: 
+* P2P port: 
+* RPC port: 
+* Testnet P2P port: 
+* Testnnet RPC port: 
+* Mainnet DNS seeds: node1.netko.tech, node2.netko.tech, node3.netko.tech, node4.netko.tech,
+* Testnet DNS seeds: 
+
 
 
 
