@@ -1,4 +1,4 @@
-### NEVACOIN
+### NEVACOIN $NEVA
 
 * addressHeader = 53
 * p2shHeader = 5
@@ -27,7 +27,7 @@
 * Testnet DNS seeds: test1.nevacoin.net, test2.nevacoin.net
 
 
-### AQUARIUSCOIN
+### AQUARIUSCOIN $ARCO
 
 * addressHeader = 23
 * p2shHeader = 5
@@ -56,7 +56,7 @@
 * Testnet DNS seeds:
 
 
-### LANACOIN
+### LANACOIN $LANA
 
 * addressHeader = 48
 * p2shHeader = 5
@@ -84,7 +84,7 @@
 * Mainnet DNS seeds: seed1.lanacoin.com, seed2.lanacoin.com, seed3.lanacoin.com, seed4.lanacoin.com, seed5.lanacoin.com, seed6.lanacoin.com, seed7.lanacoin.com, seed8.lanacoin.com, seed9.lanacoin.com
 * Testnet DNS seeds: test1.lanacoin.com, test2.lanacoin.com
 
-### TAJCOIN
+### TAJCOIN $TAJ
 
 * addressHeader = 65
 * p2shHeader = 5
@@ -112,7 +112,7 @@
 * Mainnet DNS seeds: node1.tajcoin.tech, node2.tajcoin.tech, node3.tajcoin.tech, node4.tajcoin.tech, node5.tajcoin.tech, node6.tajcoin.tech, node7.tajcoin.tech, node8.tajcoin.tech, node9.tajcoin.tech
 * Testnet DNS seeds:
 
-### NETKO
+### NETKO $NETKO
 
 * addressHeader = 
 * p2shHeader =
@@ -140,6 +140,33 @@
 * Mainnet DNS seeds: node1.netko.tech, node2.netko.tech, node3.netko.tech, node4.netko.tech,
 * Testnet DNS seeds: 
 
+### OCProtocol $OCP
+
+* addressHeader = 
+* p2shHeader =
+* acceptableAddressCodes = new int[] { addressHeader, p2shHeader }
+* spendableCoinbaseDepth = 
+* dumpedPrivateKeyHeader = 
+* name = "OCProtocol"
+* symbol = "OCP"
+* uriScheme = "ocp"
+* bip44Index = 
+* unitExponent =
+* feeValue = value(100); // 0.000001 OCP
+* minNonDust = value(1)
+* softDustLimit = value(1000000); // 0.01 OCP
+* softDustPolicy = SoftDustPolicy.AT_LEAST_BASE_FEE_IF_SOFT_DUST_TXO_PRESENT
+* public: 
+* private: 
+* pubKeyHash: 
+* scriptHash: 
+* wif: 
+* P2P port: 8881 
+* RPC port: 8882
+* Testnet P2P port: 
+* Testnnet RPC port: 
+* Mainnet DNS seeds: ocp1.seednode.org, ocp2.seednode.org, ocp3.seednode.org, ocp4.seednode.org, ocp5.seednode.org, ocp6.seednode.org, ocp7.seednode.org, ocp8.seednode.org, ocp9.seednode.org
+* Testnet DNS seeds: test1.ocprotocol.com, test2.ocprotocol.com
 
 
 
