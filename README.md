@@ -26,6 +26,7 @@
 * Testnnet RPC port: 
 * Mainnet DNS seeds: node1.aquariuscoin.com, node2.aquariuscoin.com, node3.aquariuscoin.com, node4.aquariuscoin.com, node5.aquariuscoin.com, node6.aquariuscoin.com, node7.aquariuscoin.com, node8.aquariuscoin.com, node9.aquariuscoin.com 
 * Testnet DNS seeds:
+* Download Bootraps/Chainstate from pCloud and Microsoft Onedrive: https://1drv.ms/u/s!AklKAv1s6c88a9xpwexqTocI0Dw?e=phlPhU
 
 
 ### LANACOIN $LANA
@@ -56,6 +57,7 @@
 * Testnnet RPC port: 15706
 * Mainnet DNS seeds: seed1.lanacoin.com, seed2.lanacoin.com, seed3.lanacoin.com, seed4.lanacoin.com, seed5.lanacoin.com, seed6.lanacoin.com, seed7.lanacoin.com, seed8.lanacoin.com, seed9.lanacoin.com
 * Testnet DNS seeds: test1.lanacoin.com, test2.lanacoin.com
+* Download Bootraps/Chainstate from pCloud and Microsoft Onedrive: https://1drv.ms/u/s!AklKAv1s6c88a9xpwexqTocI0Dw?e=phlPhU
 
 ### TAJCOIN $TAJ
 
@@ -85,6 +87,7 @@
 * Testnnet RPC port: 
 * Mainnet DNS seeds: node1.tajcoin.tech, node2.tajcoin.tech, node3.tajcoin.tech, node4.tajcoin.tech, node5.tajcoin.tech, node6.tajcoin.tech, node7.tajcoin.tech, node8.tajcoin.tech, node9.tajcoin.tech
 * Testnet DNS seeds:
+* Download Bootraps/Chainstate from pCloud and Microsoft Onedrive: https://1drv.ms/u/s!AklKAv1s6c88a9xpwexqTocI0Dw?e=phlPhU
 
 
 ### OCProtocol $OCP
@@ -115,11 +118,13 @@
 * Testnnet RPC port: 
 * Mainnet DNS seeds: ocp1.seednode.org, ocp2.seednode.org, ocp3.seednode.org, ocp4.seednode.org, ocp5.seednode.org, ocp6.seednode.org, ocp7.seednode.org, ocp8.seednode.org, ocp9.seednode.org
 * Testnet DNS seeds: test1.ocprotocol.com, test2.ocprotocol.com
+* Download Bootraps/Chainstate from pCloud and Microsoft Onedrive: https://1drv.ms/u/s!AklKAv1s6c88a9xpwexqTocI0Dw?e=phlPhU
 
 
 ### NETKO $NETKO
 
 * Electrum servers/port: node1.cryptowallet.si:5108, node2.cryptowallet.si:5108, node3.cryptowallet.si:5108, node4.cryptowallet.si:5108,
+* Download Bootraps/Chainstate from pCloud and Microsoft Onedrive: https://1drv.ms/u/s!AklKAv1s6c88a9xpwexqTocI0Dw?e=phlPhU
 
 
 
