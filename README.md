@@ -1,34 +1,3 @@
-### AQUARIUSCOIN $ARCO
-
-* addressHeader = 23
-* p2shHeader = 5
-* acceptableAddressCodes = new int[] { addressHeader, p2shHeader }
-* spendableCoinbaseDepth = 20
-* dumpedPrivateKeyHeader = 151
-* name = "Aquariuscoin"
-* symbol = "ARCO"
-* uriScheme = "aquariuscoin"
-* bip44Index = 10
-* unitExponent = 8
-* feeValue = value(10000); // 0.0001 ARCO
-* minNonDust = value(1)
-* softDustLimit = value(1000000); // 0.01 ARCO
-* softDustPolicy = SoftDustPolicy.AT_LEAST_BASE_FEE_IF_SOFT_DUST_TXO_PRESENT
-* public: 0x0488B21E
-* private: 0x0488ADE4
-* pubKeyHash: 0x17
-* scriptHash: 0x05
-* wif: 0x97
-* P2P port: 6205
-* RPC port: 6206
-* Electrum servers/port: node1.cryptowallet.si:5095, node2.cryptowallet.si:5095, node3.cryptowallet.si:5095, node4.cryptowallet.si:5095,
-* Testnet P2P port:
-* Testnnet RPC port: 
-* Mainnet DNS seeds: node1.aquariuscoin.com, node2.aquariuscoin.com, node3.aquariuscoin.com, node4.aquariuscoin.com, node5.aquariuscoin.com, node6.aquariuscoin.com, node7.aquariuscoin.com, node8.aquariuscoin.com, node9.aquariuscoin.com 
-* Testnet DNS seeds:
-* Download Bootraps/Chainstate from pCloud and Microsoft Onedrive: https://1drv.ms/u/s!AklKAv1s6c88a9xpwexqTocI0Dw?e=phlPhU
-
-
 ### LANACOIN $LANA
 
 * addressHeader = 48
