@@ -90,10 +90,6 @@
 * Download Bootraps/Chainstate from pCloud and Microsoft Onedrive: https://1drv.ms/u/s!AklKAv1s6c88a9xpwexqTocI0Dw?e=phlPhU
 
 
-### NETKO $NETKO
-
-* Electrum servers/port: node1.cryptowallet.si:5108, node2.cryptowallet.si:5108, node3.cryptowallet.si:5108, node4.cryptowallet.si:5108,
-* Download Bootraps/Chainstate from pCloud and Microsoft Onedrive: https://1drv.ms/u/s!AklKAv1s6c88a9xpwexqTocI0Dw?e=phlPhU
 
 
 
